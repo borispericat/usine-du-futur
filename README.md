@@ -1,16 +1,7 @@
 # usine_futur_1
 
-A new Flutter project.
+Application mobile sur le framework flutter, ayant comme but de contrôler un moteur a distance
 
-## Getting Started
+## Statut actuel 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+l'app fonctionne mais faut le serveur qui sert de pont entre l'app et le moteur pour transmettre les commande modbus.
