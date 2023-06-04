@@ -4,4 +4,4 @@ Application mobile sur le framework flutter, ayant comme but de contrôler un mo
 
 ## Statut actuel 
 
-l'app fonctionne mais faut le serveur qui sert de pont entre l'app et le moteur pour transmettre les commande modbus.
+l'app fonctionne mais pur tester sur un moteur il déployer le serveur faisnat le pont entre l'app et le moteur. 
